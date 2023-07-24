@@ -10,4 +10,5 @@ Joomla 3.x module to integrate https://www.bessermitfahren.de/
 - upload zip in the joomla admin area (/administrator)
 
 ## Functionality
+- This is still an alpha version (0.1.0)
 - At the moment the functionality is very limited, as only a link to https://www.bessermitfahren.de/ (with Bad Belzig as destination) will be provided by this module.
