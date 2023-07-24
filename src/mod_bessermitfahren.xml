@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="1.0" client="site" method="upgrade">
+	<name>bessermitfahren</name>
+	<author>flohall</author>
+	<authorUrl>https://github.com/flohall</authorUrl>
+	<creationDate>July 2023</creationDate>
+	<copyright>Copyright (C) 2021 Open Source Matters. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>0.1.0</version>
+	<description>bessermitfahrendescription</description>
+	<files>
+		<filename module="mod_bessermitfahren">mod_bessermitfahren.php</filename>
+		<folder>tmpl</folder>
+	</files>
+	<languages>
+	</languages>
+	<config>
+	</config>
+</extension>
